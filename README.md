@@ -1,4 +1,5 @@
-# fengyahe-python
+Effect/效果展示：https://www.bilibili.com/video/BV1Jr4y1C7mc/ 
+
 PacMan_opencv_ver.py is the only source code;
 parts.rars are the packed .exe by using pyinstaller;
 Instructions:
